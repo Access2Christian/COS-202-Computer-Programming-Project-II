@@ -1,0 +1,18 @@
+Book,BK1001,Clean Code,Robert C. Martin,2008,Software Engineering,A handbook of agile software craftsmanship,978-0132350884,Prentice Hall,3,3,1
+Book,BK1002,Design Patterns,Gang of Four,1994,Software Engineering,Elements of reusable object-oriented software,978-0201633610,Addison-Wesley,2,2,1
+Book,BK1003,The Pragmatic Programmer,Andrew Hunt,1999,Software Engineering,From journeyman to master,978-0135957059,Addison-Wesley,2,2,2
+Book,BK1004,Introduction to Algorithms,Thomas Cormen,2009,Computer Science,Comprehensive introduction to modern algorithms,978-0262033848,MIT Press,4,4,3
+Book,BK1005,Artificial Intelligence: A Modern Approach,Stuart Russell,2020,Artificial Intelligence,Leading textbook in AI field,978-0134610993,Pearson,2,2,4
+Book,BK1006,Database System Concepts,Silberschatz,2019,Database,Classic database textbook,978-0078022159,McGraw-Hill,3,3,7
+Book,BK1007,Computer Networks,Andrew Tanenbaum,2010,Networking,Comprehensive networking textbook,978-0132126953,Pearson,2,2,5
+Book,BK1008,Operating System Concepts,Silberschatz,2018,Operating Systems,The classic OS textbook,978-1119320913,Wiley,3,3,10
+Book,BK1009,Structure and Interpretation,Abelson & Sussman,1996,Computer Science,Landmark programming textbook,978-0262510875,MIT Press,1,1,2
+Book,BK1010,The Art of Computer Programming,Donald Knuth,2011,Computer Science,Definitive description of classical algorithms,978-0321751041,Addison-Wesley,1,1,3
+Magazine,MG2001,IEEE Spectrum,IEEE Editorial,2024,Technology,Flagship publication of the IEEE,3,62,IEEE,Monthly,true
+Magazine,MG2002,Nature,Magdalena Skipper,2024,Science,International journal of science,7998,629,Springer Nature,Weekly,true
+Magazine,MG2003,MIT Technology Review,Mat Honan,2024,Technology,Reporting on technology and its impact,1,127,MIT,Bimonthly,true
+Magazine,MG2004,Scientific American,Laura Helmuth,2024,Science,Popular science magazine,4,330,Springer Nature,Monthly,true
+Journal,JR3001,ACM Computing Surveys,Various Authors,2024,Computer Science,Survey and tutorial articles on computer science,56,1,10.1145/CS2024,ACM,Computer Science,true
+Journal,JR3002,Journal of Machine Learning Research,Lawrence Saul,2024,AI/ML,Premier journal for ML research,25,1,10.JMLR2024,MIT,Machine Learning,true
+Journal,JR3003,Communications of the ACM,Andrew Chien,2024,Computer Science,Leading print and online publication for CS professionals,67,1,10.1145/CACM2024,ACM,Computer Science,true
+Journal,JR3004,IEEE Transactions on Software Engineering,Lionel Briand,2024,Software Engineering,Premier outlet for SE research,50,2,10.1109/TSE2024,IEEE,Software Engineering,true
